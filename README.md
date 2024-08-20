@@ -8,7 +8,7 @@ Decimal point support for precise calculations.
 
 ## Getting Started 🚀
 Clone this repository to your local machine.
-Open index.html in your browser or just use this ![](https://berserker09.github.io/Calculator/)
+Open index.html in your browser or just use the link above
 Start calculating!
 
 ## How It Works 🤔
